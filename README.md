@@ -22,4 +22,5 @@ The algorithms we implement include SPFA(and SLF, LLL, SLF and LLL), A*(A Star),
 MIT License
 
 ## About Us
-We are students from Peking University from China.
+We are students from Peking University in China.
+Any question, please contact huangxiang@pku.edu.cn :)
