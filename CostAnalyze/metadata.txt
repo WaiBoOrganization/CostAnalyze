@@ -1,0 +1,22 @@
+[general]
+name=Cost Analyze
+qgisMinimumVersion=2.0
+description=Python Plugin for Cost Analysis of Raster Layer.
+version=1.0
+author=WaiBo Organization
+email=huangxiang@pku.edu.cn
+
+about=Python Plugin for Cost Analysis of Raster Layer.
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=
+tracker=
+repository=
+category=Plugin
+icon=icon.png
+# experimental flag
+experimental=False
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
